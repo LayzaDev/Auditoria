@@ -1,4 +1,4 @@
-# Criptografia - Cifra de Bloco Feistel
+# Implementação de Esquema Criptográfico Simplificado
 
 Implementação em Python de uma cifra de bloco simétrica baseada em **rede de Feistel**.
 
